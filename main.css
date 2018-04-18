@@ -5,22 +5,22 @@
     box-sizing: border-box;
 }
 body {
-  text-align: center;
-  font-family: Impact;
-  background: url(https://uspstrackingtool.com/wp-content/uploads/2018/03/White-background-365.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  /* EXTRA: Make website edge to edge */
-  margin: 0 auto;
-  width: 100%;
-  padding: 0%;
+    text-align: center;
+    font-family: Impact;
+    background: url(http://www.modafinilsale.com/data/out/787/234760845-pure-white-wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* EXTRA: Make website edge to edge */
+    margin: 0 auto;
+    width: 100%;
+    padding: 0%;
 }
 
 h1 {
     text-align: right;
     font-size: 63px;
     color: #0d0d0d;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 100;
     margin-bottom: 0;
 }
@@ -29,7 +29,7 @@ h2 {
     text-align: left;
     font-size: 45px;
     color: #0d0d0d;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     margin:0;
     padding-left: 30px;
@@ -39,14 +39,14 @@ h3 {
     text-align: right;
     font-size: 22px;
     color: #0d0d0d;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     margin:0;
 }
 
 h4 {
     text-align: center;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #0d0d0d;
     font-size: 23px;
     margin: 0;
@@ -54,7 +54,7 @@ h4 {
 }
 
 p {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin:0;
     color: #A6B0B6;
 }
@@ -71,7 +71,7 @@ hr{
 
 .col-4 {
     width:33%;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
 }
 
@@ -94,7 +94,7 @@ hr{
 .center1{
     position: relative;
     font-weight: bold;
-    left: 23px;
+    left: 0px;
 }
 
 .row {
@@ -167,6 +167,13 @@ img {
         margin-right:0;
         width:auto;
         border:0;
+    }
+    .img {
+      float:none;
+      margin-right: 0;
+      width:auto;
+      border: 0;
+      display: flex;
     }
 }
 
